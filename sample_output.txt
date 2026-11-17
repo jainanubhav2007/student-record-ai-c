@@ -1,0 +1,580 @@
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590045678
+Enter Roll No: R2142230045
+Enter Name: Ananya Verma
+Enter Phone No: 9876543210
+Enter Email ID: ananya.verma@stu.upes.ac.in
+Enter Year (1-4): 4
+Enter Current Semester (must match the year): 8
+Enter SGPA of Semester 1 (-1 if result not declared): 8.6
+Enter SGPA of Semester 2 (-1 if result not declared): 8.9
+Enter SGPA of Semester 3 (-1 if result not declared): 9.0
+Enter SGPA of Semester 4 (-1 if result not declared): 8.7
+Enter SGPA of Semester 5 (-1 if result not declared): 9.1
+Enter SGPA of Semester 6 (-1 if result not declared): 8.8
+Enter SGPA of Semester 7 (-1 if result not declared): 9.2
+Enter SGPA of Semester 8 (-1 if result not declared): 9.0
+Student added successfully. Total students: 1
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590012345
+Enter Roll No: R2142230012
+Enter Name: Rahul Sharma
+Enter Phone No: 9811122233
+Enter Email ID: rahul.sharma@stu.upes.ac.in
+Enter Year (1-4): 2
+Enter Current Semester (must match the year): 4
+Enter SGPA of Semester 1 (-1 if result not declared): 7.5
+Enter SGPA of Semester 2 (-1 if result not declared): 7.8
+Enter SGPA of Semester 3 (-1 if result not declared): 7.2
+Enter SGPA of Semester 4 (-1 if result not declared): -1
+Student added successfully. Total students: 2
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590078901
+Enter Roll No: R2142230078
+Enter Name: Karan Mehta
+Enter Phone No: 9822233344
+Enter Email ID: karan.mehta@stu.upes.ac.in
+Enter Year (1-4): 2
+Enter Current Semester (must match the year): 5
+Invalid input! Enter a number from 3 to 4.
+Enter Current Semester (must match the year): 3
+Enter SGPA of Semester 1 (-1 if result not declared): 6.2
+Enter SGPA of Semester 2 (-1 if result not declared): 11
+Invalid SGPA! Enter a value from 0 to 10, or -1.
+Enter SGPA of Semester 2 (-1 if result not declared): 6.4
+Enter SGPA of Semester 3 (-1 if result not declared): 6.6
+Student added successfully. Total students: 3
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590023456
+Enter Roll No: R2142230023
+Enter Name: Priya Nair
+Enter Phone No: 9833344455
+Enter Email ID: priya.nair@stu.upes.ac.in
+Enter Year (1-4): 3
+Enter Current Semester (must match the year): 5
+Enter SGPA of Semester 1 (-1 if result not declared): 5.0
+Enter SGPA of Semester 2 (-1 if result not declared): 5.6
+Enter SGPA of Semester 3 (-1 if result not declared): 4.8
+Enter SGPA of Semester 4 (-1 if result not declared): 5.4
+Enter SGPA of Semester 5 (-1 if result not declared): -1
+Student added successfully. Total students: 4
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590034567
+Enter Roll No: R2142230034
+Enter Name: aditya Rao
+Enter Phone No: 9844455566
+Enter Email ID: aditya.rao@stu.upes.ac.in
+Enter Year (1-4): 1
+Enter Current Semester (must match the year): 1
+Enter SGPA of Semester 1 (-1 if result not declared): -1
+Student added successfully. Total students: 5
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590056789
+Enter Roll No: R2142230056
+Enter Name: Bhavna Joshi
+Enter Phone No: 9855566677
+Enter Email ID: bhavna.joshi@stu.upes.ac.in
+Enter Year (1-4): 3
+Enter Current Semester (must match the year): 6
+Enter SGPA of Semester 1 (-1 if result not declared): 8.0
+Enter SGPA of Semester 2 (-1 if result not declared): 8.2
+Enter SGPA of Semester 3 (-1 if result not declared): 8.4
+Enter SGPA of Semester 4 (-1 if result not declared): 8.6
+Enter SGPA of Semester 5 (-1 if result not declared): 8.8
+Enter SGPA of Semester 6 (-1 if result not declared): -1
+Student added successfully. Total students: 6
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590067890
+Enter Roll No: R2142230067
+Enter Name: Meera Iyer
+Enter Phone No: 9866677788
+Enter Email ID: meera.iyer@stu.upes.ac.in
+Enter Year (1-4): 4
+Enter Current Semester (must match the year): 7
+Enter SGPA of Semester 1 (-1 if result not declared): 9.6
+Enter SGPA of Semester 2 (-1 if result not declared): 9.8
+Enter SGPA of Semester 3 (-1 if result not declared): 9.4
+Enter SGPA of Semester 4 (-1 if result not declared): 9.7
+Enter SGPA of Semester 5 (-1 if result not declared): 9.9
+Enter SGPA of Semester 6 (-1 if result not declared): 9.5
+Enter SGPA of Semester 7 (-1 if result not declared): -1
+Student added successfully. Total students: 7
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 1
+Enter SAP ID: 590012345
+A student with SAP ID 590012345 already exists!
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 9
+Invalid input! Enter a number from 0 to 8.
+Enter your choice: abc
+Invalid input! Enter a number from 0 to 8.
+Enter your choice: 3
+
+SAP ID : 590045678 | Roll No: R2142230045 | Name: Ananya Verma
+Phone  : 9876543210 | Email: ananya.verma@stu.upes.ac.in
+Year   : 4 | Semester: 8
+SGPA   : 8.60 8.90 9.00 8.70 9.10 8.80 9.20 9.00
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+SAP ID : 590012345 | Roll No: R2142230012 | Name: Rahul Sharma
+Phone  : 9811122233 | Email: rahul.sharma@stu.upes.ac.in
+Year   : 2 | Semester: 4
+SGPA   : 7.50 7.80 7.20   NA   NA   NA   NA   NA
+CGPA   : 7.50
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590078901 | Roll No: R2142230078 | Name: Karan Mehta
+Phone  : 9822233344 | Email: karan.mehta@stu.upes.ac.in
+Year   : 2 | Semester: 3
+SGPA   : 6.20 6.40 6.60   NA   NA   NA   NA   NA
+CGPA   : 6.40
+Advice : Needs Improvement - focus more on subjects with lower SGPA and follow a daily study timetable.
+
+SAP ID : 590023456 | Roll No: R2142230023 | Name: Priya Nair
+Phone  : 9833344455 | Email: priya.nair@stu.upes.ac.in
+Year   : 3 | Semester: 5
+SGPA   : 5.00 5.60 4.80 5.40   NA   NA   NA   NA
+CGPA   : 5.20
+Advice : Requires Immediate Attention - meet your faculty mentor and attend doubt/remedial classes.
+
+SAP ID : 590034567 | Roll No: R2142230034 | Name: aditya Rao
+Phone  : 9844455566 | Email: aditya.rao@stu.upes.ac.in
+Year   : 1 | Semester: 1
+SGPA   :   NA   NA   NA   NA   NA   NA   NA   NA
+CGPA   : NA
+Advice : No result declared yet - advice will be given after the first semester result.
+
+SAP ID : 590056789 | Roll No: R2142230056 | Name: Bhavna Joshi
+Phone  : 9855566677 | Email: bhavna.joshi@stu.upes.ac.in
+Year   : 3 | Semester: 6
+SGPA   : 8.00 8.20 8.40 8.60 8.80   NA   NA   NA
+CGPA   : 8.40
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590067890 | Roll No: R2142230067 | Name: Meera Iyer
+Phone  : 9866677788 | Email: meera.iyer@stu.upes.ac.in
+Year   : 4 | Semester: 7
+SGPA   : 9.60 9.80 9.40 9.70 9.90 9.50   NA   NA
+CGPA   : 9.65
+Advice : Outstanding Performance - keep it up and take on research projects, hackathons or mentoring juniors.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 2
+Enter SAP ID to search: 590045678
+
+SAP ID : 590045678 | Roll No: R2142230045 | Name: Ananya Verma
+Phone  : 9876543210 | Email: ananya.verma@stu.upes.ac.in
+Year   : 4 | Semester: 8
+SGPA   : 8.60 8.90 9.00 8.70 9.10 8.80 9.20 9.00
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 2
+Enter SAP ID to search: 590099999
+Student not found.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 5
+Year 1: No students with declared results
+Year 2: Average CGPA = 6.95 (students counted: 2)
+Year 3: Average CGPA = 6.80 (students counted: 2)
+Year 4: Average CGPA = 9.28 (students counted: 2)
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 6
+
+SAP ID : 590012345 | Roll No: R2142230012 | Name: Rahul Sharma
+Phone  : 9811122233 | Email: rahul.sharma@stu.upes.ac.in
+Year   : 2 | Semester: 4
+SGPA   : 7.50 7.80 7.20   NA   NA   NA   NA   NA
+CGPA   : 7.50
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590023456 | Roll No: R2142230023 | Name: Priya Nair
+Phone  : 9833344455 | Email: priya.nair@stu.upes.ac.in
+Year   : 3 | Semester: 5
+SGPA   : 5.00 5.60 4.80 5.40   NA   NA   NA   NA
+CGPA   : 5.20
+Advice : Requires Immediate Attention - meet your faculty mentor and attend doubt/remedial classes.
+
+SAP ID : 590034567 | Roll No: R2142230034 | Name: aditya Rao
+Phone  : 9844455566 | Email: aditya.rao@stu.upes.ac.in
+Year   : 1 | Semester: 1
+SGPA   :   NA   NA   NA   NA   NA   NA   NA   NA
+CGPA   : NA
+Advice : No result declared yet - advice will be given after the first semester result.
+
+SAP ID : 590045678 | Roll No: R2142230045 | Name: Ananya Verma
+Phone  : 9876543210 | Email: ananya.verma@stu.upes.ac.in
+Year   : 4 | Semester: 8
+SGPA   : 8.60 8.90 9.00 8.70 9.10 8.80 9.20 9.00
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+SAP ID : 590056789 | Roll No: R2142230056 | Name: Bhavna Joshi
+Phone  : 9855566677 | Email: bhavna.joshi@stu.upes.ac.in
+Year   : 3 | Semester: 6
+SGPA   : 8.00 8.20 8.40 8.60 8.80   NA   NA   NA
+CGPA   : 8.40
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590067890 | Roll No: R2142230067 | Name: Meera Iyer
+Phone  : 9866677788 | Email: meera.iyer@stu.upes.ac.in
+Year   : 4 | Semester: 7
+SGPA   : 9.60 9.80 9.40 9.70 9.90 9.50   NA   NA
+CGPA   : 9.65
+Advice : Outstanding Performance - keep it up and take on research projects, hackathons or mentoring juniors.
+
+SAP ID : 590078901 | Roll No: R2142230078 | Name: Karan Mehta
+Phone  : 9822233344 | Email: karan.mehta@stu.upes.ac.in
+Year   : 2 | Semester: 3
+SGPA   : 6.20 6.40 6.60   NA   NA   NA   NA   NA
+CGPA   : 6.40
+Advice : Needs Improvement - focus more on subjects with lower SGPA and follow a daily study timetable.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 7
+
+SAP ID : 590034567 | Roll No: R2142230034 | Name: aditya Rao
+Phone  : 9844455566 | Email: aditya.rao@stu.upes.ac.in
+Year   : 1 | Semester: 1
+SGPA   :   NA   NA   NA   NA   NA   NA   NA   NA
+CGPA   : NA
+Advice : No result declared yet - advice will be given after the first semester result.
+
+SAP ID : 590045678 | Roll No: R2142230045 | Name: Ananya Verma
+Phone  : 9876543210 | Email: ananya.verma@stu.upes.ac.in
+Year   : 4 | Semester: 8
+SGPA   : 8.60 8.90 9.00 8.70 9.10 8.80 9.20 9.00
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+SAP ID : 590056789 | Roll No: R2142230056 | Name: Bhavna Joshi
+Phone  : 9855566677 | Email: bhavna.joshi@stu.upes.ac.in
+Year   : 3 | Semester: 6
+SGPA   : 8.00 8.20 8.40 8.60 8.80   NA   NA   NA
+CGPA   : 8.40
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590078901 | Roll No: R2142230078 | Name: Karan Mehta
+Phone  : 9822233344 | Email: karan.mehta@stu.upes.ac.in
+Year   : 2 | Semester: 3
+SGPA   : 6.20 6.40 6.60   NA   NA   NA   NA   NA
+CGPA   : 6.40
+Advice : Needs Improvement - focus more on subjects with lower SGPA and follow a daily study timetable.
+
+SAP ID : 590067890 | Roll No: R2142230067 | Name: Meera Iyer
+Phone  : 9866677788 | Email: meera.iyer@stu.upes.ac.in
+Year   : 4 | Semester: 7
+SGPA   : 9.60 9.80 9.40 9.70 9.90 9.50   NA   NA
+CGPA   : 9.65
+Advice : Outstanding Performance - keep it up and take on research projects, hackathons or mentoring juniors.
+
+SAP ID : 590023456 | Roll No: R2142230023 | Name: Priya Nair
+Phone  : 9833344455 | Email: priya.nair@stu.upes.ac.in
+Year   : 3 | Semester: 5
+SGPA   : 5.00 5.60 4.80 5.40   NA   NA   NA   NA
+CGPA   : 5.20
+Advice : Requires Immediate Attention - meet your faculty mentor and attend doubt/remedial classes.
+
+SAP ID : 590012345 | Roll No: R2142230012 | Name: Rahul Sharma
+Phone  : 9811122233 | Email: rahul.sharma@stu.upes.ac.in
+Year   : 2 | Semester: 4
+SGPA   : 7.50 7.80 7.20   NA   NA   NA   NA   NA
+CGPA   : 7.50
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 8
+
+590034567 - aditya Rao
+CGPA   : NA
+Advice : No result declared yet - advice will be given after the first semester result.
+
+590045678 - Ananya Verma
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+590056789 - Bhavna Joshi
+CGPA   : 8.40
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+590078901 - Karan Mehta
+CGPA   : 6.40
+Advice : Needs Improvement - focus more on subjects with lower SGPA and follow a daily study timetable.
+
+590067890 - Meera Iyer
+CGPA   : 9.65
+Advice : Outstanding Performance - keep it up and take on research projects, hackathons or mentoring juniors.
+
+590023456 - Priya Nair
+CGPA   : 5.20
+Advice : Requires Immediate Attention - meet your faculty mentor and attend doubt/remedial classes.
+
+590012345 - Rahul Sharma
+CGPA   : 7.50
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 4
+Enter SAP ID to delete: 590078901
+Student deleted successfully. Total students: 6
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 4
+Enter SAP ID to delete: 590099999
+Student not found.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 3
+
+SAP ID : 590034567 | Roll No: R2142230034 | Name: aditya Rao
+Phone  : 9844455566 | Email: aditya.rao@stu.upes.ac.in
+Year   : 1 | Semester: 1
+SGPA   :   NA   NA   NA   NA   NA   NA   NA   NA
+CGPA   : NA
+Advice : No result declared yet - advice will be given after the first semester result.
+
+SAP ID : 590045678 | Roll No: R2142230045 | Name: Ananya Verma
+Phone  : 9876543210 | Email: ananya.verma@stu.upes.ac.in
+Year   : 4 | Semester: 8
+SGPA   : 8.60 8.90 9.00 8.70 9.10 8.80 9.20 9.00
+CGPA   : 8.91
+Advice : Excellent Performance - maintain your current study pattern and try projects or internships.
+
+SAP ID : 590056789 | Roll No: R2142230056 | Name: Bhavna Joshi
+Phone  : 9855566677 | Email: bhavna.joshi@stu.upes.ac.in
+Year   : 3 | Semester: 6
+SGPA   : 8.00 8.20 8.40 8.60 8.80   NA   NA   NA
+CGPA   : 8.40
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+SAP ID : 590067890 | Roll No: R2142230067 | Name: Meera Iyer
+Phone  : 9866677788 | Email: meera.iyer@stu.upes.ac.in
+Year   : 4 | Semester: 7
+SGPA   : 9.60 9.80 9.40 9.70 9.90 9.50   NA   NA
+CGPA   : 9.65
+Advice : Outstanding Performance - keep it up and take on research projects, hackathons or mentoring juniors.
+
+SAP ID : 590023456 | Roll No: R2142230023 | Name: Priya Nair
+Phone  : 9833344455 | Email: priya.nair@stu.upes.ac.in
+Year   : 3 | Semester: 5
+SGPA   : 5.00 5.60 4.80 5.40   NA   NA   NA   NA
+CGPA   : 5.20
+Advice : Requires Immediate Attention - meet your faculty mentor and attend doubt/remedial classes.
+
+SAP ID : 590012345 | Roll No: R2142230012 | Name: Rahul Sharma
+Phone  : 9811122233 | Email: rahul.sharma@stu.upes.ac.in
+Year   : 2 | Semester: 4
+SGPA   : 7.50 7.80 7.20   NA   NA   NA   NA   NA
+CGPA   : 7.50
+Advice : Good Performance - revise your weaker subjects regularly to reach the excellent range.
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 5
+Year 1: No students with declared results
+Year 2: Average CGPA = 7.50 (students counted: 1)
+Year 3: Average CGPA = 6.80 (students counted: 2)
+Year 4: Average CGPA = 9.28 (students counted: 2)
+
+===== AI-ASSISTED STUDENT RECORD & RESULT MANAGEMENT =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Delete Student
+5. Year-wise Average CGPA
+6. Display Sorted by SAP ID
+7. Display Sorted by Name
+8. AI Academic Advisor (all students)
+0. Exit
+Enter your choice: 0
+Exiting program. Goodbye!
